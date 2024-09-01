@@ -20,3 +20,5 @@ The feature set for v1.0;
 
 As stated this project hasn't been checked yet if everything is in order in according to specs.
 Also the ethernet port is still 1GBe; for a future revision I'd like to make that 2.5GBe + WOL support.
+
+![Board v1.0](https://raw.githubusercontent.com/Donderstraal/Lattepanda-MU-Nano-ITX-carrier-board/main/Board.PNG)
